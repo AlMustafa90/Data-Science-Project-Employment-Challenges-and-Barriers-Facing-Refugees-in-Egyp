@@ -1,0 +1,2 @@
+# Data-Science-Project-Employment-Challenges-and-Barriers-Facing-Refugees-in-Egyp
+This data science project focuses on analyzing the employment challenges faced by refugees in Egypt through both quantitative and qualitative data. The project will explore job unsustainability for employed refugees and the barriers unemployed refugees face when seeking jobs. Additionally, the project will include text analysis of open-ended resp.
