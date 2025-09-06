@@ -20,12 +20,8 @@ This data science project focuses on analyzing the employment challenges faced b
 - Provide data-driven insights to support solutions for improving job access and retention for refugees.
 
 ## Dataset Description
-
 The dataset was collected through structured questionnaires targeting:  
-- Unemployed refugees facing difficulties in finding jobs.  
-- Employed refugees struggling with job suitability and sustainability.  
-- Open-ended responses reflecting refugees' personal experiences, opinions, and feedback.
-
+including 2006 refugee form 11 different countries.
 ### Key Features in the Dataset:  
 - Demographic Data: Age, gender, education level, country of origin.  
 - Employment Status: Employed, unemployed, part-time, or informal work.  
