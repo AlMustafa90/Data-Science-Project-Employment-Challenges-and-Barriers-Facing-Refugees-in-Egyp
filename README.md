@@ -24,6 +24,8 @@ This data science project focuses on analyzing the employment challenges faced b
 ## Dataset Description
 The dataset was collected through structured questionnaires targeting:  
 including 2006 refugee form 11 different countries.
+- Collection Period: Two months
+- 
 ### Key Features in the Dataset:  
 - Demographic Data: Age, gender, education level, country of origin.  
 - Employment Status: Employed, unemployed, part-time, or informal work.  
@@ -34,7 +36,9 @@ including 2006 refugee form 11 different countries.
 - Text Data: Comments, opinions, and responses to open-ended questions.
 
 ## Analytical Approach
-
+  - *Excel*: for initial cleaning, merging, and tabulation of responses  
+  - *Python*: for advanced analytics, NLP, and visualization
+  - 
 ### 1. Data Cleaning and Preprocessing  
 - Handle missing or inconsistent data.  
 - Preprocess text data (removing stopwords, punctuation, and irrelevant content).  
@@ -64,10 +68,22 @@ ucation, skills, and leeducationgal status) impact job sustainability.
 - Working conditions and opportunities for growth.  
 - Sentiment analysis of work experiences.
 
-## Outcomes
+## Outcomes and findings 
 
 - Data-driven insights into employment challenges faced by refugees in Egypt.  
 - Sentiment analysis results that reflect refugees' satisfaction or dissatisfaction with job markets.  
 - Topic modeling to identify recurring themes in refugees' feedback.  
 - Visual representations of the factors affecting job suitability, sustainability, and accessibility.  
 - Recommendations for NGOs, policymakers, and employers to improve job opportunities for refugees.
+
+*High unemployment: 76.6% of refugees are unemployed, especially women and adults aged 29–49, reflecting structural barriers to entry into the job market.
+
+*Prolonged job search: Over 70% of unemployed refugees searched for work for more than 6 months, highlighting frustration, financial stress, and discouragement.
+
+*Employment patterns: Only 23.4% are employed, mainly in informal self-employment or low-paying private sector jobs, with very limited access to government positions.
+
+*Poor working conditions: Refugees often face exploitation, long hours, and wages below the legal minimum. Many reported discrimination and being confined to low-status jobs with no career growth.
+
+*Skills–job mismatch: Most employed refugees work in positions unrelated to their education or skills, wasting human capital and fueling dissatisfaction.
+
+*Psychological impact: Respondents expressed feelings of exclusion, hopelessness, and being undervalued, especially due to legal restrictions and discrimination.
