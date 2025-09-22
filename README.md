@@ -62,19 +62,10 @@ ucation, skills, and leeducationgal status) impact job sustainability.
 - Working conditions and opportunities for growth.  
 - Sentiment analysis of work experiences.
 
-## Expected Outcomes
+## Outcomes
 
 - Data-driven insights into employment challenges faced by refugees in Egypt.  
 - Sentiment analysis results that reflect refugees' satisfaction or dissatisfaction with job markets.  
 - Topic modeling to identify recurring themes in refugees' feedback.  
 - Visual representations of the factors affecting job suitability, sustainability, and accessibility.  
 - Recommendations for NGOs, policymakers, and employers to improve job opportunities for refugees.
-
-## Next Steps
-
-1. Data Preparation: Clean and preprocess both structured and text data.  
-2. Exploratory Analysis: Perform EDA to uncover patterns and trends.  
-3. Text Analysis: Apply NLP techniques for deeper insights.  
-4. Visualization: Develop visual insights to simplify datable insights for improving employment opportunities and job sustainability for refugees in Egypt.*gees.ch.
-
- 
